@@ -20,3 +20,4 @@ if dx == 1 and dy == 2 or dx == 2 and dy == 1:
     print('Yes')
 else:
     print('No')
+
