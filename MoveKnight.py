@@ -11,8 +11,8 @@
 # 8 |  |  |  |  |  |  |  |  |
 
 
-x1, y1 = 4, 4   # Start coordinates
-x2, y2 = 6, 3   # Try change the coordinates form 1 to 8
+x1, y1 = 4, 4       # Start coordinates
+x2, y2 = 6, 3       # Try change the coordinates form 1 to 8
 dx = abs(x1 - x2)
 dy = abs(y1 - y2)
 
