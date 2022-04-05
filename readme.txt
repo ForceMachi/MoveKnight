@@ -1,4 +1,4 @@
-All tasks are taken from the course to Stepik.
+All tasks are taken from the course to Stepik
 
 Course:
 https://stepik.org/course/58852
